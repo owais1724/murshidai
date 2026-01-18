@@ -1,0 +1,7 @@
+{
+  "name": "Murshid AI EdTech",
+  "description": "An AI-powered adaptive learning platform for students, teachers, and parents with grounded PDF learning and behavioral profiling.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
